@@ -1,0 +1,13 @@
+C:\Users\mayna\source\repos\FinTech.Core\bin\Debug\netcoreapp3.1\FinTech.Core.deps.json
+C:\Users\mayna\source\repos\FinTech.Core\bin\Debug\netcoreapp3.1\FinTech.Core.dll
+C:\Users\mayna\source\repos\FinTech.Core\bin\Debug\netcoreapp3.1\FinTech.Core.pdb
+C:\Users\mayna\source\repos\FinTech.Core\obj\Debug\netcoreapp3.1\FinTech.Core.AssemblyInfoInputs.cache
+C:\Users\mayna\source\repos\FinTech.Core\obj\Debug\netcoreapp3.1\FinTech.Core.AssemblyInfo.cs
+C:\Users\mayna\source\repos\FinTech.Core\obj\Debug\netcoreapp3.1\FinTech.Core.csproj.CoreCompileInputs.cache
+C:\Users\mayna\source\repos\FinTech.Core\obj\Debug\netcoreapp3.1\staticwebassets\FinTech.Core.StaticWebAssets.Manifest.cache
+C:\Users\mayna\source\repos\FinTech.Core\obj\Debug\netcoreapp3.1\staticwebassets\FinTech.Core.StaticWebAssets.xml
+C:\Users\mayna\source\repos\FinTech.Core\obj\Debug\netcoreapp3.1\scopedcss\bundle\FinTech.Core.styles.css
+C:\Users\mayna\source\repos\FinTech.Core\obj\Debug\netcoreapp3.1\FinTech.Core.RazorTargetAssemblyInfo.cache
+C:\Users\mayna\source\repos\FinTech.Core\obj\Debug\netcoreapp3.1\FinTech.Core.dll
+C:\Users\mayna\source\repos\FinTech.Core\obj\Debug\netcoreapp3.1\FinTech.Core.pdb
+C:\Users\mayna\source\repos\FinTech.Core\obj\Debug\netcoreapp3.1\FinTech.Core.csprojAssemblyReference.cache
